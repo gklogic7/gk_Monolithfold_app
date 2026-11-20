@@ -1,0 +1,6 @@
+{
+  "name": "Monolith Files",
+  "description": "Minimal monochrome adaptive Android file manager for mobile, tablet, and desktop with hybrid storage access, Media3 gesture video player, WorkManager archive tools, and an AES-256 encrypted biometric/PIN vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
